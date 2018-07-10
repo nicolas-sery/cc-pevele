@@ -1,8 +1,7 @@
 # Sommaire
 
-
-1. [Installation de Centreon CES (ISO)](#Installation de Centreon CES (ISO))
 1. [Prérequis](#Prérequis)
+1. [Installation de Centreon CES](#Installation de Centreon CES)
 1. [Première connexion](#Première connexion)
 1. Démarrage du poller](#Démarrage du poller)
 1. [Ajout d'un hôte windows](#Ajout d'un hôte windows)
@@ -37,8 +36,8 @@ Un e-mail pour avoir 5 templates (ensemble de sondes) supplémentaires.
 Pour plus de détail, voir :
 [Prérequis centreon](https://documentation-fr.centreon.com/docs/centreon/en/2.8.x/installation/prerequisites.html)
 
-<a name="Installation de Centreon CES (ISO)"></a>
-# Installation de Centreon CES (ISO)
+<a name="Installation de Centreon CES"></a>
+# Installation de Centreon CES
 
 Une fois l'ISO de Centreon CES monté, l'installation est quasiement identique à l'installation de CentOS 7. La seule option qu'il est nécessaire de renseigner, en plus de la destination, est le type d'installation.
 
