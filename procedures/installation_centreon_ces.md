@@ -1,8 +1,9 @@
 # Sommaire
+
 1. [Prérequis](#Prérequis)
-2. [Installation de Centreon CES (ISO)](#Installation de Centreon CES (ISO))
-3. [Première connexion](#Première connexion)
-1. [Démarrage du poller](#Démarrage du poller)
+1. [Installation de Centreon CES (ISO)](#Installation de Centreon CES (ISO))
+1. [Première connexion](#Première connexion)
+1. Démarrage du poller](#Démarrage du poller)
 1. [Ajout d'un hôte windows](#Ajout d'un hôte windows)
     * [Redémarrage du poller après modification de la configuration](#Redémarrage du poller après modification de la configuration)
 1. [Débogage : host unreachable](#Débogage : host unreachable)
